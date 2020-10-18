@@ -1,0 +1,13 @@
+
+feature_crosses
+feature_sets
+first_steps_with_tensor_flow
+improving_neural_net_performance
+intro_to_neural_nets
+intro_to_sparse_data_and_embeddings
+logistic_regression
+multi-class_classification_of_handwritten_digits
+sparsity_and_l1_regularization
+synthetic_features_and_outliers
+test
+validation
